@@ -52,6 +52,23 @@
 
 -------
 
+## ✏️ Articles:
+| Name      | Type |
+| ----------- | ----------- | 
+| [How to refresh-token](https://dev.to/daniellimae/how-to-refresh-token-170n) | Tech |
+| [🔒Security Tips for Frontend](https://dev.to/daniellimae/security-tips-for-frontend-5372) | Tech |
+| [👥 How to clone a website into a Chrome Extension.](https://dev.to/daniellimae/how-to-clone-a-website-into-a-chrome-extension-41kg) | Tech |
+|[ 🎒 localStorage or 🍪 cookies : What's the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho) | Tech |
+| [🌸 A elegant way to consume API's at front-end](https://dev.to/daniellimae/a-elegant-way-to-consume-apis-at-front-end-3m8m) | Tech |
+| [Explaining Algorithms to my girlfriend - Binary Search](https://dev.to/daniellimae/explain-algorithms-binary-search-2e0g) | Tech |
+| [How to deploy your GraphQL API from Monorepo](https://dev.to/daniellimae/how-to-deploy-your-graphql-api-from-monorepo-jpp) | Tech |
+| [Image optimization techniques with next.js](https://dev.to/daniellimae/image-optimization-techniques-with-nextjs-47f6) | Tech |
+| [More articles](https://dev.to/daniellimae) | Tech |
+
+
+-------
+
+
 
 ## 💰 Freelas and 🤝🏽 Ongs:
 | Name      | type |
