@@ -70,13 +70,13 @@
 
 
 
-## 💰 Freelas and 🤝🏽 Ongs:
+## 💰 Freelas and 🤝🏽 NGOs :
 | Name      | type |
 | ----------- | ----------- | 
-| [lanterna luminosa](https://www.lanternaluminosa.com.br/) | 🤝🏽 ONG for Womans care |
-| [ADM institute](https://projetoadm.vercel.app/) | 🤝🏽 ONG for motor impaired care |
-| [AAARP](https://aaarp.vercel.app/) | 🤝🏽 ONG for Dogs care |
-| [Ong template](https://github.com/bolodissenoura/ONG) | 🤝🏽 ONG for homeless care |
+| [lanterna luminosa](https://www.lanternaluminosa.com.br/) | 🤝🏽 NGOs for Womans care |
+| [ADM institute](https://projetoadm.vercel.app/) | 🤝🏽 NGOs for motor impaired care |
+| [AAARP](https://aaarp.vercel.app/) | 🤝🏽 NGOs for Dogs care |
+| [Ong template](https://github.com/bolodissenoura/ONG) | 🤝🏽 NGOs for homeless care |
 | [portifolio henrique](https://henrique-vinhola.vercel.app/)   | 💰 Portifolio for a designer |
 | [multivias](https://multivias-sinalizacao.vercel.app/) | 💰Website for a corp. |
 | [IMM](https://instituto-lp.vercel.app/) | 💰 website for a corp. |
