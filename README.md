@@ -37,7 +37,16 @@
 
 -------
 
-## Now the cool part, my products:
+## Open-source projects 
+
+| Name      | status |
+| ----------- | ----------- | 
+| [phived](https://github.com/LukeberryPi/phived) | ✅ Open-source Running  |
+| [pixmeacoffee](https://www.pixme.bio/)   | ✅ Open-source Running |
+| [linkesearch](https://linkesearch.vercel.app/) with AI| ✅ Open-source Running |
+| [trilhainfo](https://github.com/flaviojmendes/trilhainfo) | ✅ Open-source Running |
+
+## Now the cool part, my products and my own Saas ideas:
 | Name      | status |
 | ----------- | ----------- | 
 | [alertpix](https://www.alertpix.live/) | ✅ Running |
